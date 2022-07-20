@@ -1,0 +1,331 @@
+
+.nigga {
+    position: absolute;
+    width: 590px;
+    height: 625px;
+    left: 741px;
+    top: 29px;
+}
+.marsi {
+    position: absolute;
+    width: 95px;
+    height: 45px;
+    left: 117px;
+    top: 38px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+    color: #282828;
+
+
+}
+.upper-text {
+    position: absolute;
+    width: 400px;
+    height: 214px;
+    left: 117px;
+    top: 217px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+}
+.ux {
+    color: red;
+}
+.download {
+    position: absolute;
+    width: 160px;
+    height: 24px;
+    top: 445px;
+    left: 117px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.line-104 {
+    position: absolute;
+    width: 106px;
+    height: 0px;
+    left: 276px;
+    top: 459px;
+
+    border: 1px;
+}
+.vector {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 399px;
+    top: 88px;
+}
+.dribble {
+    position: absolute;
+    width: 193px;
+    height: 24px;
+    left: 417px;
+    top: 83px;
+
+}
+.G-191 {
+    position: absolute;
+    width: 38px;
+    height: 19px;
+    left: 1100px;
+    top: 83px;
+}
+.G-1 {
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 523px;
+    top: 88px;
+}
+.Newsletter {
+    position: absolute;
+    width: 1171px;
+    height: 182px;
+    top: 769px;
+    left: 116px;
+    background: #F9F3F5;
+}
+.news-text {
+    position: relative;
+    width: 169px;
+    height: 40px;
+    left: 154px;
+    top: 42px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+
+}
+.highlights {
+    position: relative;
+    width: 291px;
+    height: 52px;
+    left: 95px;
+    top: 15px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #C4C4C4;
+}
+.mail-section {
+    position: inherit;
+    width: 570px;
+    height: 98px;
+    top: 42px;
+    left: 501px;
+
+    color: #FFFAFA;
+    box-shadow: 0px 0px 20px
+        rgba(0, 0, 0, 1);
+
+}
+.enter-mail {
+    position: inherit;
+    width: 120px;
+    height: 24px;
+    top: 30px;
+    left: 50px;
+    height: 50px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #C4C4C4;
+}
+.subscribe {
+    position: inherit;
+    width: 110px;
+    height: 24px;
+    left: 401px;
+    top: 30px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #282828;
+}
+.V39 {
+    position: inherit;
+    width: 8px;
+    height: 17px;
+    top: 50px;
+    left: 520px;
+}
+.V38 {
+    position: inherit;
+    width: 8px;
+    height: 17px;
+    top: 50px;
+    left: 530px;
+}
+.G193 {
+    position: absolute;
+    width: 56px;
+    height: 56px;
+    top: 537px;
+    left: 120px;
+}
+.scroll {
+    position: absolute;
+    width: 80px;
+    height: 18px;
+    left: 190px;
+    top: 540px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #282828;
+}
+.cube1 {
+    position: absolute;
+    width: 162px;
+    height: 162px;
+    left: 560px;
+    top: 489px;
+}
+.cube2 {
+    position: absolute;
+    width: 112px;
+    height: 112px;
+    left: 617px;
+    top: 268px;
+}
+.cube3 {
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    left: 738px;
+    top: 126px;
+}
+.vectorc {
+    position: absolute;
+    width: 530px;
+    height: 382px;
+    left: 116px;
+    top: 1101px;
+}
+.graph {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 219px;
+    top: 1141px;
+}
+.Skills {
+    position: absolute;
+    width: 470px;
+    height: 105px;
+    left: 717px;
+    top: 1100px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 45px;
+    color: #282828;
+}
+.lorem  {
+    position: absolute;
+    width: 470px;
+    height: 105px;
+    left: 717px;
+    top: 1160px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #282828;
+}
+.Ui-Ux {
+    position: absolute;
+    width: 101px;
+    height: 56px;
+    left: 717px;
+    top: 1285px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #282828;
+}
+.Amimetion {
+    position: absolute;
+    width: 101px;
+    height: 56px;
+    left: 894px;
+    top: 1285px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #282828;
+}
+.Graphics {
+    position: absolute;
+    width: 101px;
+    height: 56px;
+    left: 1058px;
+    top: 1285px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #282828;
+}
+.Marketing {
+    position: absolute;
+    width: 101px;
+    height: 56px;
+    left: 1207px;
+    top: 1285px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+
+    color: #282828;
+}
